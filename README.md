@@ -1,4 +1,4 @@
 # leetcode
  Solutions of leetcode 
  
- Using java,go,python
+ Using java go python
