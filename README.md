@@ -1,3 +1,4 @@
 # leetcode
- Solutions of leetcode \n
+ Solutions of leetcode 
+ 
  Using java,go,python
